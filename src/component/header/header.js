@@ -9,7 +9,7 @@ function Header() {
             <h3 className='subtitle'> I'm {"  "}
                 <ReactTyped
                     strings = {
-                        ['Mya Htut Khaung.', 'a Web Developer.', 'a UI/UUX Designer.', 'a Freelancer.']
+                        ['Mya Htut Khaung.', 'a Web Developer.', 'a UI/UX Designer.', 'a Freelancer.']
                     }
                     typeSpeed={150}
                     loop
