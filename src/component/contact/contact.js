@@ -7,9 +7,9 @@ const Contact = () => {
         <h2 className="contact-title">Contact Me</h2>
         <div className="contact-container">
             <div className="contact-info">
-            <p><strong>Phone:</strong> +95 9 123 456 789</p>
-            <p><strong>Email:</strong> myagyi.dev@example.com</p>
-            <p><strong>Address:</strong> Yangon, Myanmar</p>
+              <p><strong>Phone:</strong> +959 250 899 121</p>
+              <p><strong>Email:</strong> myahtutkhaung2002@gmail.com</p> 
+              <p><strong>Address:</strong> North Okkalapa Township, Yangon, Myanmar</p>
             </div>
 
             <form className="contact-form">
