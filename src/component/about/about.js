@@ -7,7 +7,7 @@ const About = () => {
       <h2 className="about-title">About Me</h2>
       <div className="about-content">
         <p>
-          Hello! I'm <strong>Mya Gyi</strong>, a passionate junior web developer
+          Hello! I'm <strong>Mya Htut Khaung</strong>, a passionate junior web developer
           who loves turning ideas into real, working websites. I specialize in
           both frontend and backend technologies including Laravel, PHP, React,
           JavaScript, and MySQL.
