@@ -21,6 +21,11 @@ const About = () => {
           When I’m not coding, I enjoy exploring new tools, working on side
           projects, or spending quality time with my loved ones.
         </p>
+        <p className="about-description-1">
+          I’m currently looking for opportunities to grow and contribute to
+          exciting projects. If you’re interested in collaborating or just want
+          to say hi, feel free to reach out!
+        </p>
       </div>
     </section>
   );
